@@ -73,3 +73,8 @@ I'm Prabhjyot Chavan (BE in Computer Engineering, MS in Data Science)
 - SQL
 - HTML/CSS
 
+## 🌐 Social Links
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabhjyot-chavan)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/perky_prabhjoyt)
+
