@@ -86,3 +86,15 @@ I'm Prabhjyot Chavan (BE in Computer Engineering, MS in Data Science)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PrabhjyotChavan&repo=multiplelinearregression&theme=dark)](https://github.com/PrabhjyotChavan/multiplelinearregression)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PrabhjyotChavan&repo=project-repo-name-2&theme=dark)](https://github.com/PrabhjyotChavan/project-repo-name-2)
+
+## 🎓 Certifications
+
+- 📄 [Google Data Analytics
+Professional Certificate]([https://link-to-certificate-1.com](https://www.coursera.org/account/accomplishments/specialization/certificate/FTWA5AXFL6VA))  
+  Issued by **Coursera** – *October 2022*
+
+- 📄 [Preparing for Google Cloud
+Certification: Cloud
+Engineer Specialization]([https://link-to-certificate-2.com](https://www.coursera.org/account/accomplishments/specialization/certificate/6M9DD96JFM26))  
+  Issued by **Coursera** – *October 2022*
+
