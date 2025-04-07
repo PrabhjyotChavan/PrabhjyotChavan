@@ -62,9 +62,10 @@ I'm Prabhjyot Chavan (BE in Computer Engineering, MS in Data Science)
 ![Riot Games](https://img.shields.io/badge/Riot%20Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)
 ![Valorant](https://img.shields.io/badge/Valorant-FF4655?style=for-the-badge&logo=valorant&logoColor=white)
 
-## 📊 GitHub Stats
+## 🌐 Social Links
 
-![Prabhjyot's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrabhjyotChavan&show_icons=true&hide_title=true&count_private=true&theme=dark)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabhjyot-chavan)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/perky_prabhjoyt)
 
 ## 💻 Top Languages I Work With
 - Python
@@ -73,8 +74,7 @@ I'm Prabhjyot Chavan (BE in Computer Engineering, MS in Data Science)
 - SQL
 - HTML/CSS
 
-## 🌐 Social Links
+## 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabhjyot-chavan)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/perky_prabhjoyt)
+![Prabhjyot's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrabhjyotChavan&show_icons=true&hide_title=true&count_private=true&theme=dark)
 
