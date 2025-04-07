@@ -90,11 +90,11 @@ I'm Prabhjyot Chavan (BE in Computer Engineering, MS in Data Science)
 ## 🎓 Certifications
 
 - 📄 [Google Data Analytics
-Professional Certificate]([https://link-to-certificate-1.com](https://www.coursera.org/account/accomplishments/specialization/certificate/FTWA5AXFL6VA))  
+Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/FTWA5AXFL6VA)  
   Issued by **Coursera** – *October 2022*
 
 - 📄 [Preparing for Google Cloud
 Certification: Cloud
-Engineer Specialization]([https://link-to-certificate-2.com](https://www.coursera.org/account/accomplishments/specialization/certificate/6M9DD96JFM26))  
+Engineer Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/6M9DD96JFM26) 
   Issued by **Coursera** – *October 2022*
 
