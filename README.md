@@ -80,3 +80,9 @@ I'm Prabhjyot Chavan (BE in Computer Engineering, MS in Data Science)
 ![Prabhjyot's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrabhjyotChavan&show_icons=true&hide_title=true&count_private=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrabhjyotChavan&layout=compact&theme=dark&langs_count=10)
+
+## 🚀 Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PrabhjyotChavan&repo=multiplelinearregression&theme=dark)](https://github.com/PrabhjyotChavan/multiplelinearregression)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PrabhjyotChavan&repo=project-repo-name-2&theme=dark)](https://github.com/PrabhjyotChavan/project-repo-name-2)
