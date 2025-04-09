@@ -85,7 +85,6 @@ I'm Prabhjyot Chavan (BE in Computer Engineering, MS in Data Science)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PrabhjyotChavan&repo=multiplelinearregression&theme=dark)](https://github.com/PrabhjyotChavan/multiplelinearregression)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PrabhjyotChavan&repo=project-repo-name-2&theme=dark)](https://github.com/PrabhjyotChavan/project-repo-name-2)
 
 ## 🎓 Certifications
 
